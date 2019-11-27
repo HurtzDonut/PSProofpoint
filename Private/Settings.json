@@ -1,0 +1,8 @@
+[
+    {
+        "PSConfig": {
+            "BaseUrl"   : "https://00136001.pphosted.com:10000/rest/v1/quarantine",
+            "ApiAccount": "apiaccount"
+        }
+    }
+]
